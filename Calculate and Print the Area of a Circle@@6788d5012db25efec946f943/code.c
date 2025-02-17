@@ -4,9 +4,9 @@ int main(){
     float r;
     float f;
 
-    scanf("%f",& r);
+    scanf("%f",&r);
     f=3.14*r*r;
-    printf("Area:%f",f);
+    printf("%f",f);
     return 0 ;
 
 }
