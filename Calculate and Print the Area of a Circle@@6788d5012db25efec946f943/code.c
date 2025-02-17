@@ -3,7 +3,8 @@ include<stdio.h>
 int main(){
     float r;
     scanf("%f",& r);
-    printf("%f",3.14*r);
+    f=3.14*r;
+    printf("%f",f);
     return 0 ;
 
 }
